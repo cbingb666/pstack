@@ -8,7 +8,7 @@ disable-model-invocation: true
 
 When implementation convenience conflicts with user delight, choose delight.
 
-- Every feature, control, and option must be justified
+- Every feature, control, option, and line of UI guidance must justify its presence. Omit tips by default for interactions users can understand through low-risk exploration.
 - Ship less, ship better (polished experience with three features beats rough one with ten)
 - Prototype before committing (design decisions are cheaper in throwaway HTML than production code)
 - Get the details right (transitions, alignment, spacing, feedback, error states)
