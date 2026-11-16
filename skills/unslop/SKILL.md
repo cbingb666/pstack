@@ -35,7 +35,7 @@ Rule numbers are stable ids that other skills cite. A removed rule leaves a gap.
 17. **Title case headings.** Use sentence case.
 18. **Decorative emojis.** Remove from headings and bullets.
 19. **Curly quotes.** Use straight quotes.
-34. **Decorative separators.** Avoid using middle dots or similar decorative separators to join labels or phrases. Use normal punctuation, complete sentences, or lists. "Saved · Ready to share" becomes "The file is saved and ready to share." Preserve meaningful uses in names, formulas, and quotations.
+34. **Decorative separators.** Replace decorative middle dots or similar separators with normal punctuation, sentences, or lists. Preserve meaningful uses in names, formulas, and quotations.
 
 ### Communication artifacts
 
