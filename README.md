@@ -1,3 +1,5 @@
+> 这是 [cbingb666/pstack](https://github.com/cbingb666/pstack) 的个人 fork。`custom` 分支维护本地定制，使用方式见[个人维护说明](LOCAL-MAINTENANCE.md)。
+
 <!-- mirror:start — this top section is specific to the mirror. Everything after mirror:end is the upstream README from cursor/plugins/pstack, unchanged. To sync with upstream, follow MIRROR.md. -->
 <h1 align="center">pstack — standalone mirror</h1>
 
@@ -34,7 +36,7 @@
 pstack is a folder of plain [Agent Skills](https://agentskills.io) (`skills/<name>/SKILL.md`). You don't need [Cursor](https://github.com/cursor/plugins/tree/main/pstack). The [`skills` CLI](https://skills.sh) installs them into Claude Code, Codex, Pi, Cursor, OpenCode, and other agents:
 
 ```bash
-npx skills add backnotprop/pstack
+npx skills add cbingb666/pstack
 ```
 
 The CLI shows every skill in a list you can search. Select the skills you want, then select your agents.
